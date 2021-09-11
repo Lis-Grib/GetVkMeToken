@@ -1,2 +1,2 @@
-# GetVkMeToken
-Vk has closed the possibility of obtaining a Vk Me token. But with this code, you can get it.
+# Get VK Token
+Получаем токен оффициальной версии VK и VK Me
